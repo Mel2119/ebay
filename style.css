@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inner-ebay{
+    width: 220px;
+    height: 130px;
+    border: 18px solid transparent;
+    border-radius: 56px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.letter {
+    font-size: 56px;
+    font-weight: bold;
+    letter-spacing: -8px; /* Adjust the value to remove or reduce the space between letters */
+  }
+.e{
+    color: red;
+    font-size: 85px;
+    font-family: sans-serif;
+}
+.b{
+    color: blue;
+    font-size: 85px;
+    font-family: sans-serif;
+}
+.a{
+    color: rgb(196, 131, 12);
+    font-size: 85px;
+    font-family: sans-serif;
+}
+.y{
+    color: green;
+    font-size: 85px;
+    font-family: sans-serif;
+}
